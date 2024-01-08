@@ -45,5 +45,4 @@ A funcionalidade de listagem de todos os clientes foi implementada na classe `Cl
 
 - Se houver alguma dúvida ou feedback, sinta-se à vontade para entrar em contato comigo através do meu e-mail [gustavo.aquino.dev@gmail.com].
 
-Agradeço pela oportunidade de praticar e estou aberto a discussões e melhorias no código.
 
