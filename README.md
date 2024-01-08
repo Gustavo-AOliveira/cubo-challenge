@@ -14,7 +14,7 @@ O objetivo principal deste projeto é aprimorar minhas habilidades em desenvolvi
 
 ## Como Executar o Projeto
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
+1. Clone este repositório
 2.  Navegue até o diretório do projeto
 3.Configure o banco de dados MySQL no arquivo `application.properties`.
 4.  Execute a aplicação
