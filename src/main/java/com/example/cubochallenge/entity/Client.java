@@ -29,4 +29,9 @@ import java.math.BigDecimal;
             this.lastName = dados.lastName();
             this.participation = dados.participation();
         }
-}
+        public Client(String firstName, String lastName, BigDecimal participation) {
+            this.firstName = firstName;
+            this.lastName = lastName;
+            this.participation = participation;
+        }
+    }

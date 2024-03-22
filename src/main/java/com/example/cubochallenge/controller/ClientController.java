@@ -18,6 +18,7 @@ public class ClientController {
     public ClientController(ClientService service) {
         this.service = service;
     }
+
     @PostMapping
     @Transactional
     public ResponseEntity<Client> saveClient(@RequestBody @Valid DataSaveDTO data, UriComponentsBuilder uriBuilder){
