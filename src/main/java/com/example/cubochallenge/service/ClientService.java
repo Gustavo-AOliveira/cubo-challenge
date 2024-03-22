@@ -17,8 +17,7 @@ public class ClientService {
 
     public Client saveClient(DataSaveDTO data){
         var client = new Client(data);
-        repository.save(client);
-            return client;
+            return repository.save(client);
     }
     public List<Client> getAll(){
         return repository.findAll();
